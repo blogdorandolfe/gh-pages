@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blogdorandolfe.com.br/sitemap.xml
